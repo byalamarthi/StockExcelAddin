@@ -12,3 +12,5 @@ Enter valid stock ticker in a cell in Column A. Please make sure it is not in ed
 Click on GetStockValue button in ribbon for the respective stock prices to appear in corresponding columns.
 
 The API call is restricted to 5 calls in a minute.
+
+The application is created with Visual Studio 2019 and .Net framework 4.0
