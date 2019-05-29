@@ -1,0 +1,17 @@
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\ExcelStcockAddin.dll
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\ExcelStcockAddin.pdb
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\ExcelStcockAddin.dll.manifest
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\ExcelStcockAddin.vsto
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\Json.dll
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\Newtonsoft.Json.dll
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\Json.pdb
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\bin\Debug\Newtonsoft.Json.xml
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.csprojAssemblyReference.cache
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.Properties.Resources.resources
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.Stock.resources
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.csproj.GenerateResource.cache
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.csproj.CoreCompileInputs.cache
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.csproj.CopyComplete
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.dll
+C:\AppDev\ExcelStcockAddin\ExcelStcockAddin\obj\Debug\ExcelStcockAddin.pdb
